@@ -1,0 +1,1 @@
+![Hippos](../images/hippo.png)
