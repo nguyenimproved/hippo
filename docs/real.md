@@ -1,0 +1,1 @@
+![Yawn](../images/hippo_yawn.jpg)
